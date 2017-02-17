@@ -6,8 +6,8 @@ window.onload = function() //quand la fenêtre s'ouvre, le script se charge
     canvas.height = 600;
     canvas.style.border = "1px solid";
     
-    // on l'attache maintenant à notre page HTML grace à document qui lie un fichier
-    // et on lui attribue le body de notre page HTML. appendChild permet d'accrocher le tag au // body. Voir dans le HTML ce que ça donne.
+    /* on l'attache maintenant à notre page HTML grace à document qui lie un fichier
+    et on lui attribue le body de notre page HTML. appendChild permet d'accrocher le tag au body. Voir dans le HTML ce que ça donne. */
     document.body.appendChild(canvas);
     
     
