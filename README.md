@@ -1,6 +1,6 @@
 # snake-game
 Mon premier jeu en Javascript
-un version avec commentaire et une version sans, pour voir le code plus clairement
+une version avec commentaire et une version sans, pour voir le code plus clairement
 
 17.02.2017
 
