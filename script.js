@@ -45,3 +45,4 @@ window.onload = function() //quand la fenêtre s'ouvre, le script se charge
     }
     
 }
+
